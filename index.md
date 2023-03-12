@@ -4,10 +4,8 @@ title: CV
 ---
 # Kasper Brink-Jensen
 Data scientist
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+
+
 
 
 ## Currently
@@ -26,8 +24,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+University of Copenhagen, Copenhagen, Denmark
+Ph.d., Biostatistics, December 2014
+• Title: Integrative modelling and inference in high dimensional genomic and metabolic
+data
+• Advisor: Claus Thorn Ekstrøm, Ph.d
 
 `June 1661 - now`
 __Trinity College, Cambridge__
