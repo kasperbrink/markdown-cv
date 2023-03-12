@@ -5,87 +5,50 @@ title: CV
 # Kasper Brink-Jensen
 Data scientist
 
+## Skills
+Python, R, SQL 
 
+## Research interests
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Machine learning, production code, pipeline templates, automated ML
 
 ## Education
 
 University of Copenhagen, Copenhagen, Denmark
-Ph.d., Biostatistics, December 2014
-• Title: Integrative modelling and inference in high dimensional genomic and metabolic
-data
-• Advisor: Claus Thorn Ekstrøm, Ph.d
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`December 2014` __Ph.d., Biostatistics__ 
+- Title: Integrative modelling and inference in high dimensional genomic and metabolic data
 
-- Sizar
+- Advisor: Claus Thorn Ekstrøm, Ph.d
 
-`1667 - death`
-__Trinity College, Cambridge__
+`December 2010` __MSc., Forestry__ 
+- Title: Determinants of the germination niche of Ambrosia artemisiifolia–effects
+of temperature and drought
+- Advisor: Johannes Kolmann, Ph.d
 
-- Fellow
+` Dec 2004` __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://ign.ku.dk/english/study_programmes/skilled-forest-landscape-craftsman/)__
 
 
 
-## Awards
+## Emplyoment
 
-`2012`
-President, *Royal Society*, London, UK
+`2014 - 2015` __Statistician, Larix A/S__
 
-Associate, *French Academy of Science*, Paris, France
+Statistical analysis and programming of clinical trials data.
 
+`2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
+Data integration, analysis and data warehouse of Danish fisheries data
 
-## Publications
+`2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Machine learning in production, development templates, business needs to development projects
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 
