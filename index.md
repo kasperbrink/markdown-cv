@@ -35,19 +35,17 @@ Advisor: Johannes Kolmann, Ph.d
 
 ## Emplyoment
 
-`2014 - 2015` __Statistician, Larix A/S__
+`2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
 
-Statistical analysis and programming of clinical trials data.
+Machine learning in production, development templates, business needs to development projects
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
 Data integration, analysis and data warehouse of Danish fisheries data
 
-`2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
+`2014 - 2015` __Statistician, Larix A/S__
 
-Machine learning in production, development templates, business needs to development projects
-
-
+Statistical analysis and programming of clinical trials data.
 
 
 <!-- ### Footer
