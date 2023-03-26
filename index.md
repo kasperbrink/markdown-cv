@@ -37,9 +37,9 @@ Advisor: Johannes Kolmann, Ph.d
 
 `2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
 
-*Machine learning in production
-*Development templates, 
-*Matching model development with businiess needs
+* Machine learning in production
+* Development templates, 
+* Matching model development with businiess needs
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
