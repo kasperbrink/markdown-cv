@@ -6,7 +6,7 @@ title: CV
 Data scientist
 
 ## Skills
-Python, R, SQL 
+Python, R, SQL, Project Management
 
 ## Research interests
 
@@ -37,7 +37,9 @@ Advisor: Johannes Kolmann, Ph.d
 
 `2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
 
-Machine learning in production, development templates, business needs to development projects
+*Machine learning in production
+*Development templates, 
+*Matching model development with businiess needs
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
