@@ -46,11 +46,11 @@ Advisor: Johannes Kolmann, Ph.d
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
-Data integration, analysis and data warehouse of Danish fisheries data
+* Data integration, analysis and data warehouse of Danish fisheries data
 
 `2014 - 2015` __Statistician, Larix A/S__
 
-Statistical analysis and programming of clinical trials data.
+* Statistical analysis and programming of clinical trials data.
 
 
 <!-- ### Footer
