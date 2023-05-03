@@ -6,7 +6,7 @@ title: CV
 Data scientist
 
 ## Skills
-Python, R, SQL, Project Management, Jira/Confluence, Git
+Python, R, SQL, Project Management, Jira/Confluence, Git, CI/CD
 
 ## Current work areas
 
