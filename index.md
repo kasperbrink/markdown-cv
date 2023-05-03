@@ -8,9 +8,9 @@ Data scientist
 ## Skills
 Python, R, SQL, Project Management, Jira/Confluence, Git
 
-## Research interests
+## Current work areas
 
-Machine learning, production code, pipeline templates, automated ML,
+Machine learning, production code, pipeline templates, automated ML, stakeholder managemenet, team supervision.
 
 ## Education
 
@@ -52,7 +52,13 @@ Advisor: Johannes Kolmann, Ph.d
 
 * Statistical analysis and programming of clinical trials data.
 
+Over the last years I transitioned into a more lead position within Machine Learning, spending more time supervising, building strategic partnerships and setting the long term direction for the area. I enjoy coming up with great solutions with people that are often better at pure programming and math but often benefit from guidance in order to make all 
+components come together at the right time and scale.
 
+## Personal
+* Born 1978
+* Wife and daughter
+* Bouldering, travel, mountain hiking
 <!-- ### Footer
 
 Last updated: March 2023 -->
