@@ -22,7 +22,7 @@ Python, R, SQL, Project Management, Jira/Confluence, Git, CI/CD
 
 ## Current work areas
 
-Machine learning, production code, pipeline templates, automated ML, stakeholder managemenet, team supervision.
+Machine learning, production code, pipeline templates, automated ML, stakeholder management, team supervision.
 
 ## Education
 
