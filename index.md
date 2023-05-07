@@ -61,8 +61,8 @@ Advisor: Johannes Kolmann, Ph.d
 * Born 1978
 * Wife and daughter
 * Bouldering, travel, mountain hiking
-<!-- ### Footer
 
-Last updated: March 2023 -->
+
+<!-- ### Footer Last updated: May 2023 -->
 
 
