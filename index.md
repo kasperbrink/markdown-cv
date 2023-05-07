@@ -19,20 +19,23 @@ Machine learning, production code, pipeline templates, automated ML, stakeholder
 
 University of Copenhagen, Copenhagen, Denmark
 
-`December 2014` __Ph.d., Biostatistics__ 
+`December 2014`
+__Ph.d., Biostatistics__ 
 
 Title: Integrative modelling and inference in high dimensional genomic and metabolic data
 
 Advisor: Claus Thorn Ekstrøm, Ph.d
 
-`December 2010` __MSc., Forestry__ 
+`December 2010` 
+__MSc., Forestry__ 
 
 Title: Determinants of the germination niche of Ambrosia artemisiifolia–effects
 of temperature and drought
 
 Advisor: Johannes Kolmann, Ph.d
 
-`December 2004` __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://ign.ku.dk/english/study_programmes/skilled-forest-landscape-craftsman/)__
+`December 2004` 
+__Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://ign.ku.dk/english/study_programmes/skilled-forest-landscape-craftsman/)__
 
 
 
