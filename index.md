@@ -15,8 +15,7 @@ Sundholmsvej 27, 4tv
 </div>
 
 
-Over the last years I transitioned into a more lead position within Machine Learning, spending more time supervising, building strategic partnerships and setting the long term direction for the area. I enjoy coming up with great solutions with people that are often better at pure programming and math but often benefit from guidance in order to make all 
-components come together at the right time and scale. 
+Over the last years I transitioned into a more lead position within Machine Learning, spending more time supervising, building strategic partnerships and setting the long term direction for the area, while still developing and maintaining ML solutions. I have succesfully created a variety of ML products with people that are often better at programming and math but benefit from guidance in order to make all components come together at the right time and scale. I have also had to end projects with poor likelihood of succes and have done so in a way that kept the involved parties engaged and motivated ofr other projects.
 
 ## Skills
 Python, R, SQL, Project Management, Jira/Confluence, Git, CI/CD
@@ -76,6 +75,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Bouldering, travel, mountain hiking
 
 
-<!-- ### Footer Last updated: May 2023 -->
+<!-- ### Footer 
+Last updated: May 2023 -->
 
 
