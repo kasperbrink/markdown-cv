@@ -14,11 +14,11 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Skills
-Python, R, SQL, Project Management, Jira/Confluence, Git, CI/CD
+Python, R, SQL, Project Management, Agile WoW, Jira/Confluence, Git, CI/CD
 
 ## Current work areas
 
-Machine learning, production code, pipeline templates, automated ML, stakeholder management, team supervision.
+Machine learning, production code, pipeline templates, defining team tasks, stakeholder management, team supervision.
 
 ## Education
 
