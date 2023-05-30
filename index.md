@@ -3,7 +3,6 @@ layout: cv
 title: CV
 ---
 # Kasper Brink-Jensen
-Data scientist
 <div id="webaddress">
 <a href="kasperbrinkjensen@gmail.com">kasperbrinkjensen@gmail.com</a>
 
@@ -13,9 +12,6 @@ Sundholmsvej 27, 4tv
 
 +45 53 61 14 78
 </div>
-
-
-Over the last few years, I have transitioned into a more lead position within Machine Learning. I spend more time supervising, building strategic partnerships, and setting the long-term direction for the area, while still developing and maintaining ML solutions. I have successfully created a variety of ML products with individuals who are highly skilled at programming and math, but benefit from guidance in order to make all components come together at the right time and scale. Additionally, I have had to terminate projects with a poor likelihood of success and have done so in a way that kept the involved parties engaged and motivated for other projects. I am  motivated by providing solutions that help the users become data driven and make decisions that are better informed. Another important area to me is streamlining the ML workflow using standard components and pipelines.
 
 ## Skills
 Python, R, SQL, Project Management, Jira/Confluence, Git, CI/CD
@@ -56,6 +52,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Function templates 
 * Continous adjustment with stakeholders
 * Supervising development teams
+* Working in an agile framework
 * Internal/external reviews and testing before production
 
 
