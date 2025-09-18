@@ -20,9 +20,8 @@ Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 ## Current work areas
 
 Vision and roadmap for ML at EVP level, communication of value creation, aligning ML track across the organization,
+ensuring users can go from PoC to production in one place, mathcing tasks to team development goals
 
-
-Machine learning, production code, pipeline templates, defining team tasks, stakeholder management, team supervision.
 
 ## Education
 
