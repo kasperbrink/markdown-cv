@@ -43,7 +43,7 @@ of temperature and drought
 Advisor: Johannes Kolmann, Ph.d
 
 `December 2004` 
-__Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://ign.ku.dk/english/study_programmes/skilled-forest-landscape-craftsman/)__
+__Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://skovskolen.ku.dk/skov-og-naturtekniker/)__
 
 
 
