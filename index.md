@@ -14,9 +14,13 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Skills
-Python, R, SQL, Project Management, Agile WoW, Jira/Confluence, Git, CI/CD
+Strategy, Project Management, Agile WoW, 
+Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 
 ## Current work areas
+
+Vision and roadmap for ML at EVP level, communication of value creation, aligning ML track across the organization,
+
 
 Machine learning, production code, pipeline templates, defining team tasks, stakeholder management, team supervision.
 
@@ -46,7 +50,15 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 ## Emplyoment
 
-`2018 - current` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
+`2023 - current` __ML Product Owner, Novo Nordisk A/S__
+
+* Machine learning in production in OT, GxP
+* Technical team lead, defining product vision and roadmap
+* Leding other team Product Owners
+* Alining with external stakeholders at senior management level
+* LLM applications in pharma
+
+`2018 - 2023` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
 
 * Machine learning in production
 * Function templates 
