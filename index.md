@@ -14,7 +14,7 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Skills
-Strategy, Project Management, Agile WoW, 
+Strategy, Project Management, Agile WoW
 Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 
 ## Current work areas
