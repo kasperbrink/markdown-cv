@@ -52,7 +52,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 `2023 - current` __ML Product Owner, Novo Nordisk A/S__
 
 * Machine learning in production in OT, GxP
-* Technical team lead, defining product vision and roadmap
+* Product team lead, defining vision and roadmap
 * Leding other team Product Owners, ML Engineers and Data Scientists, UX researchers, 
 * Alining with internal and external stakeholders at technical to senior management level
 * LLM applications in pharma
