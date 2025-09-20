@@ -53,7 +53,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 * Machine learning in production in OT, GxP
 * Product team lead, defining vision and roadmap
-* Leding other team Product Owners, ML Engineers and Data Scientists, UX researchers, 
+* Leding other team Product Owners, ML Engineers, Data Scientists and UX researchers, 
 * Alining with internal and external stakeholders at technical to senior management level
 * LLM applications in pharma
 
