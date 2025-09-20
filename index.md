@@ -14,13 +14,13 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Skills
-Strategy, Project Management, Agile WoW
+Strategy, Peer mentoring,  Project Management, Agile WoW
 Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 
 ## Current work areas
 
 Vision and roadmap for ML at EVP level, communication of value creation, aligning ML track across the organization,
-ensuring users can go from PoC to production in one place, mathcing tasks to team development goals
+sparring with management on product and team, mathcing tasks to team development goals
 
 
 ## Education
@@ -54,7 +54,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Machine learning in production in OT, GxP
 * Technical team lead, defining product vision and roadmap
 * Leding other team Product Owners, ML Engineers and Data Scientists, UX researchers, 
-* Alining with external stakeholders at senior management level
+* Alining with internal and external stakeholders at technical to senior management level
 * LLM applications in pharma
 
 `2018 - 2023` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
