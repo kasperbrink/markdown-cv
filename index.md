@@ -14,7 +14,8 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Skills
-Strategy, Peer mentoring,  Project Management, Agile WoW, Stakeholder communication,
+
+AI Strategy, Peer mentoring,  Project Management, Agile WoW, Stakeholder communication,
 Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 
 ## Current work areas
