@@ -79,6 +79,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 *Main achievements*
 - Leading development of tax fraud detection model complex, greatly increasing detection rates
 - Platform test and feedback lead, ensuring swift migration and adoption
+- Defining analysis ready data standards with data teams
 - Review of new platform and use case initiatives, considering ROI and time-to-market
 
 
