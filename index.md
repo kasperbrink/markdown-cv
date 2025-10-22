@@ -58,13 +58,13 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Alining with internal and external stakeholders at technical to senior management level
 * LLM applications in pharma
 
-Major milestones
+*Major milestones
 - Defining and owning ML/AI vision for Novo Nordisk PS
 - Driving design and implementation of entreprise-wide, GMP compliant ML training pipeline
 - Point of contact for data platform teams
 - Driving ML use cases in manufacturing for product quality control and contamination detection
 - Ensuring compliance for platform inititives in manufacturing, member of architechture review board
-- Consistent high team satisfaction in bi-annual surveys
+- Consistent high team satisfaction in bi-annual surveys*
 
 
 `2018 - 2023` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
@@ -76,10 +76,10 @@ Major milestones
 * Working in an agile framework
 * Internal/external reviews and testing before production
 
-Major milestones
+*Major milestones
 - Leading development of tax fraud detection models, greatly increasing detection rates
 - Platform test and feedback lead, ensuring swift migration and adoption
-- Review of new platform and use case initiatives, considering ROI and time-to-market
+- Review of new platform and use case initiatives, considering ROI and time-to-market*
 
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
