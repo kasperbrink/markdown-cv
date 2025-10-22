@@ -5,11 +5,11 @@ title: CV
 # Kasper Brink-Jensen
 <div id="webaddress">
 <a href="kasperbrinkjensen@gmail.com">kasperbrinkjensen@gmail.com</a>
-
+<br>
 Sundholmsvej 27, 4tv
 
 2300 Copenhagen S
-
+<br>
 +45 53 61 14 78
 </div>
 
