@@ -20,7 +20,7 @@ Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
 
 ## Current work areas
 
-Vision and roadmap for AI at EVP level, communication of value creation, aligning AI track across the organization,
+Vision and roadmap for AI at EVP level,adoption and training for LoB, communication of value creation, aligning AI tracks across the organization,
 sparring with management on product and team, mathcing tasks to team development goals
 
 
