@@ -60,6 +60,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 *Main achievements*
 - Defining and owning ML/AI vision for Novo Nordisk PS
+- Ensuring LoB knowledge and adoption
 - Driving design and implementation of entreprise-wide, GMP compliant ML training pipeline
 - Point of contact for data platform teams
 - Driving ML use cases in manufacturing for product quality control and contamination detection
