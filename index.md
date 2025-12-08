@@ -58,11 +58,11 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * LLM applications in pharma
 
 *Main achievements*
+- Driving ML use cases in manufacturing for product quality control and contamination detection, including surrounding IT/OT for operations
+- Driving design and implementation of entreprise-wide, GMP compliant ML training pipeline
 - Defining and owning ML/AI vision for Novo Nordisk PS
 - Ensuring LoB knowledge and adoption
-- Driving design and implementation of entreprise-wide, GMP compliant ML training pipeline
 - Point of contact for data platform teams
-- Driving ML use cases in manufacturing for product quality control and contamination detection
 - Member of architechture review board, ensuring compliance for platform inititives 
 - Consistent high team satisfaction in bi-annual surveys
 
@@ -80,6 +80,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 - Leading development of tax fraud detection model complex, greatly increasing detection rates
 - Platform test and feedback lead, ensuring swift migration and adoption
 - Defining analysis ready data standards with data teams
+- Driving model and UI development for tax payer ID application
 - Review of new platform and use case initiatives, considering ROI and time-to-market
 
 
