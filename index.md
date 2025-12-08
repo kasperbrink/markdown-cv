@@ -15,12 +15,11 @@ Sundholmsvej 27, 4tv
 
 ## Skills
 
-AI Strategy, Peer mentoring,  Project Management, Agile WoW, Stakeholder communication,
-Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO
+AI Strategy, Project Management, Agile WoW, Stakeholder communication,
+Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO, Peer mentoring
 
 ## Current work areas
-
-Vision and roadmap for AI at EVP level,adoption and training for LoB, communication of value creation, aligning AI tracks across the organization,
+Drivng AI use cases and infrastructure, capturing requirements from LoB, communicating value creation, aligning AI tracks across the organization. Vision and roadmap for AI at EVP level,adoption and training for LoB, 
 sparring with management on product and team, mathcing tasks to team development goals
 
 
