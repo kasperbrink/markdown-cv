@@ -13,7 +13,7 @@ Sundholmsvej 27, 4tv
 +45 53 61 14 78
 </div>
 
-## Experienced digital and AI lead. 
+## Experienced digital and AI lead 
 I work at the intersection between strategy, engineering, management and product development. Providing real business impact and changing the status quo has been my agenda in my recent role in Novo Nordisk DDIT PS. Always pushing for collaboration and solutions that meet the users' needs, whether that is a simple workflow or a complex AI solution. Strong foundation within AI and statistics, business acumen, focus on team success and deliveries. Open and straightforward communication to any level of business.
 
 
