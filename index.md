@@ -14,7 +14,7 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Experienced digital and AI lead 
-I work at the intersection between strategy, engineering, management and product development. Providing real business impact and changing the status quo has been my agenda in my recent role in Novo Nordisk DDIT PS. Always pushing for collaboration and solutions that meet the users' needs, whether that is a simple workflow or a complex AI solution. Strong foundation within AI and statistics, business acumen, focus on team success and deliveries. Open and straightforward communication to any level of business.
+I work at the intersection between strategy, engineering, management and product development. Providing real business impact, using the rigth tools has been is agenda in my recent role in Trifork as well as in Novo Nordisk DDIT PS. Always pushing for collaboration, my drive comes from working on solutions that meet the users' needs, whether that is a simple workflow or a complex AI solution. Strong foundation within AI and statistics, business acumen, focus on team success and deliveries. Open and straightforward communication to any level of business.
 
 
 ## Skills
@@ -22,7 +22,7 @@ I work at the intersection between strategy, engineering, management and product
 AI Strategy, Project Management, Agile WoW, Stakeholder communication,
 Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO, Peer mentoring
 
-## Current work areas
+## Work areas
 Drivng AI use cases and infrastructure, capturing requirements from LoB, communicating value creation, aligning AI tracks across the organization. Vision and roadmap for AI at EVP level,adoption and training for LoB, 
 sparring with management on product and team, mathcing tasks to team development goals
 
@@ -53,6 +53,12 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 ## Emplyoment
 
+`2025 - ` __co-Business Unit Lead, Trifork A/S__
+
+* Team leadership and development
+* AI and ML vision use cases and platforms
+* Solution designs with costumers and partners
+
 `2023 - 2025` __ML Product Owner, Novo Nordisk A/S__
 
 * Machine learning in production in OT, GxP
@@ -63,7 +69,7 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 *Main achievements*
 - Driving ML use cases in manufacturing for product quality control and contamination detection, including surrounding IT/OT for operations
-- Driving design and implementation of entreprise-wide, GMP compliant ML training pipeline in collaboration with lead from R&D
+- Design and implementation of entreprise-wide, GMP compliant ML training pipeline in collaboration with lead from R&D
 - Defining and owning ML/AI vision for Novo Nordisk PS
 - Ensuring LoB knowledge and adoption
 - Point of contact for data platform teams
