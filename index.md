@@ -108,12 +108,12 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Teaching assistant/lecturer various statistics courses. 
 
 
-
+<!--
 ## Personal
 * Born 1978
 * Wife and daughter
 * Bouldering, travel, mountain hiking
-
+-->
 
 <!-- ### Footer 
 Last updated: May 2023 -->
