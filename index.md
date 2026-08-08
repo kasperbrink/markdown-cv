@@ -16,15 +16,15 @@ Sundholmsvej 27, 4tv
 ## Experienced digital and AI lead
 I work at the intersection of strategy, engineering, management and product development. I focus on delivering measurable business impact by combining technical fluency, clear product thinking and stakeholder alignment. I have led cross-functional teams through 0→1 product and program builds, operationalized ML in regulated environments, and served as the bridge between researchers, engineering and senior leadership.
 
-A short note for the Microsoft Quantum / QuNorth opportunity: I enjoy turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between research centres, industry and public funders in the Nordics, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. I am comfortable working across time zones and distributed engineering teams, and I bring practical knowledge of cloud ML tooling (Azure, ADO), MLOps and production monitoring.
+A short note for the Microsoft Quantum / QuNorth opportunity: I enjoy turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between organisations focusing on long-term value creation, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. I am comfortable working across  distributed engineering teams, and I bring practical knowledge of cloud ML tooling (Azure, ADO), MLOps and production monitoring.
 
 ## Skills
 
-Partner & program management, 0→1 program and market builds, stakeholder communication, executive alignment, cross‑org escalation
+Partner & program management, program and market builds, stakeholder communication, executive alignment, cross‑org functions
 
 Azure ML, Azure DevOps (ADO), AWS, MLOps, CI/CD, Python, R, SQL
 
-Responsible AI practices, AI-driven productivity tools (Copilot), experiment design & validation, model lifecycle and monitoring
+Responsible AI practices, AI-driven productivity tools, experiment design & validation, model lifecycle and monitoring
 
 Research collaboration, public-sector and regulated environments (GxP/OT), Git, Jira/Confluence, peer mentoring
 
