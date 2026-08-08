@@ -4,7 +4,7 @@ title: CV
 ---
 # Kasper Brink-Jensen
 <div id="webaddress">
-<a href="kasperbrinkjensen@gmail.com">kasperbrinkjensen@gmail.com</a>
+<a href="mailto:kasperbrinkjensen@gmail.com">kasperbrinkjensen@gmail.com</a>
 <br>
 Sundholmsvej 27, 4tv
 
@@ -13,100 +13,82 @@ Sundholmsvej 27, 4tv
 +45 53 61 14 78
 </div>
 
-## Experienced digital and AI lead 
-I work at the intersection between strategy, engineering, management and product development. Providing real business impact, using the rigth tools has been is agenda in my recent role in Trifork as well as in Novo Nordisk DDIT PS. Always pushing for collaboration, my drive comes from working on solutions that meet the users' needs, whether that is a simple workflow or a complex AI solution. Strong foundation within AI and statistics, business acumen, focus on team success and deliveries. Open and straightforward communication to any level of business.
+## Experienced digital and AI lead
+I work at the intersection of strategy, engineering, management and product development. I focus on delivering measurable business impact by combining technical fluency, clear product thinking and stakeholder alignment. I have led cross-functional teams through 0→1 product and program builds, operationalized ML in regulated environments, and served as the bridge between researchers, engineering and senior leadership.
 
+A short note for the Microsoft Quantum / QuNorth opportunity: I enjoy turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between research centres, industry and public funders in the Nordics, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. I am comfortable working across time zones and distributed engineering teams, and I bring practical knowledge of cloud ML tooling (Azure, ADO), MLOps and production monitoring.
 
 ## Skills
 
-AI Strategy, Project Management, Agile WoW, Stakeholder communication,
-Azure ML, AWS, Python, R, SQL,  Jira/Confluence, Git, CI/CD, ADO, Peer mentoring
+Partner & program management, 0→1 program and market builds, stakeholder communication, executive alignment, cross‑org escalation
+
+Azure ML, Azure DevOps (ADO), AWS, MLOps, CI/CD, Python, R, SQL
+
+Responsible AI practices, AI-driven productivity tools (Copilot), experiment design & validation, model lifecycle and monitoring
+
+Research collaboration, public-sector and regulated environments (GxP/OT), Git, Jira/Confluence, peer mentoring
 
 ## Work areas
-Drivng AI use cases and infrastructure, capturing requirements from LoB, communicating value creation, aligning AI tracks across the organization. Vision and roadmap for AI at EVP level,adoption and training for LoB, 
-sparring with management on product and team, mathcing tasks to team development goals
 
+Driving AI use cases and infrastructure; capturing partner and line-of-business requirements; communicating value and aligning product tracks across organisations. Defining vision and roadmaps for ML/AI initiatives at senior levels, supporting adoption and scaling. Acting as a technical translator and program owner between research teams, engineering groups and executive stakeholders across countries.
 
 ## Education
 
 University of Copenhagen, Copenhagen, Denmark
 
 `December 2014`
-__Ph.d., Biostatistics__ 
+__Ph.d., Biostatistics__
 
 Title: Integrative modelling and inference in high dimensional genomic and metabolic data
 
 Advisor: Claus Thorn Ekstrøm, Ph.d
 
-`December 2010` 
-__MSc., Forestry__ 
+`December 2010`
+__MSc., Forestry__
 
-Title: Determinants of the germination niche of Ambrosia artemisiifolia–effects
-of temperature and drought
+Title: Determinants of the germination niche of Ambrosia artemisiifolia–effects of temperature and drought
 
 Advisor: Johannes Kolmann, Ph.d
 
-`December 2004` 
+`December 2004`
 __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://skovskolen.ku.dk/skov-og-naturtekniker/)__
 
-
-
-## Emplyoment
+## Employment
 
 `2025 - ` __co-Business Unit Lead, Trifork A/S__
 
 * Team leadership and development
-* AI and ML vision use cases and platforms
-* Solution designs with costumers and partners
+* AI and ML vision, use cases and platforms
+* Solution design and delivery with customers and partners
+* Defining product roadmaps and aligning delivery across teams
 
 `2023 - 2025` __ML Product Owner, Novo Nordisk A/S__
 
-* Machine learning in production in OT, GxP
-* Product team lead, defining vision and roadmap
-* Leding other team Product Owners, ML Engineers, Data Scientists, UX researchers and Solution Architects 
-* Alining with internal and external stakeholders at technical to senior management level
-* LLM applications in pharma
+* Machine learning in production in OT, GxP environments
+* Product team lead — defining vision, roadmap and delivery priorities
+* Leading and coordinating Product Owners, ML Engineers, Data Scientists, UX researchers and Solution Architects
+* Aligning internal and external stakeholders from technical teams to senior management
+* Delivered LLM applications and operational ML services in regulated contexts
 
-<!--*Main achievements*
-- Driving ML use cases in manufacturing for product quality control and contamination detection, including surrounding IT/OT for operations
-- Design and implementation of entreprise-wide, GMP compliant ML training pipeline in collaboration with lead from R&D
-- Defining and owning ML/AI vision for Novo Nordisk PS
-- Ensuring LoB knowledge and adoption
-- Point of contact for data platform teams
-- Member of architechture review board, ensuring compliance for platform inititives 
-- Consistent high team satisfaction in bi-annual surveys
--->
-
-`2018 - 2023` __Special-/Chefkonsulent, SKAT/Udviklings- og Forenklingsstyrelsen__
+`2018 - 2023` __Special-/Chefkonsulent, SKAT / Udviklings- og Forenklingsstyrelsen__
 
 * Machine learning in production
-* Function templates 
-* Continous adjustment with stakeholders
-* Supervising development teams
-* Working in an agile framework
-* Internal/external reviews and testing before production
-
-<!--
-*Main achievements*
-- Leading development of tax fraud detection model complex, greatly increasing detection rates
-- Platform test and feedback lead, ensuring swift migration and adoption
-- Defining analysis ready data standards with data teams
-- Driving model and UI development for tax payer ID application
-- Review of new platform and use case initiatives, considering ROI and time-to-market
--->
+* Templates and standards for reusable functions and pipelines
+* Continuous stakeholder engagement and prioritisation
+* Supervising development teams and working in agile frameworks
+* Internal and external reviews and testing before production
 
 `2015 - 2018` __Fuldmægtig, Landbrugs- og Fiskeristyrelsen__
 
-* Data integration, analysis and data warehouse of Danish fisheries data
+* Data integration, analysis and data warehouse development for Danish fisheries data
 
 `2014 - 2015` __Statistician, Larix A/S__
 
-* Statistical analysis and programming of clinical trials data.
+* Statistical analysis and programming for clinical trials data
 
 `2008 - 2016` __University of Copenhagen__
 
-* Teaching assistant/lecturer various statistics courses. 
-
+* Teaching assistant / lecturer for various statistics courses
 
 <!--
 ## Personal
@@ -117,5 +99,3 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 
 <!-- ### Footer 
 Last updated: May 2023 -->
-
-
