@@ -14,24 +14,34 @@ Sundholmsvej 27, 4tv
 </div>
 
 ## Experienced digital and AI lead
-I work at the intersection of strategy, engineering, management and product development. I focus on delivering measurable business impact by combining technical fluency, clear product thinking and stakeholder alignment. I have led cross-functional teams through 0→1 product and program builds, operationalized ML in regulated environments, and served as the bridge between researchers, engineering and senior leadership.
 
-A short note for the Microsoft Quantum / QuNorth opportunity: I enjoy turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between organisations focusing on long-term value creation, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. I am comfortable working across  distributed engineering teams, and I bring practical knowledge of cloud ML tooling (Azure, ADO), MLOps and production monitoring.
+
+I work at the intersection of strategy, engineering, management and product development. I focus on delivering measurable business impact by combining technical fluency, clear product thinking and stakeholder alignment. 
+
+I have led cross-functional teams through 0→1 product and program builds, operationalized ML in regulated environments, and served as the bridge between researchers, engineering and senior leadership.
+
+I thrive turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between organisations focusing on long-term value creation, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. 
+
+About me, I am a fast learner who enjoy establishing collaborations and helping the people around me succeed. I have little need to put a personal agenda first, I set direction but rely on experts with domain knowledge to make decisions they are most qualified to make. 
 
 ## Skills
 
-Partner & program management, program and market builds, stakeholder communication, executive alignment, cross‑org functions
+Partner & program management, stakeholder communication, executive alignment, cross‑org functions
 
 Azure ML, Azure DevOps (ADO), AWS, MLOps, CI/CD, Python, R, SQL
+
+Working knowledge of quantom techniques, potential and challenges
 
 Responsible AI practices, AI-driven productivity tools, experiment design & validation, model lifecycle and monitoring
 
 Research collaboration, public-sector and regulated environments (GxP/OT), Git, Jira/Confluence, peer mentoring
 
+
+<!--
 ## Work areas
 
 Driving AI use cases and infrastructure; capturing partner and line-of-business requirements; communicating value and aligning product tracks across organisations. Defining vision and roadmaps for ML/AI initiatives at senior levels, supporting adoption and scaling. Acting as a technical translator and program owner between research teams, engineering groups and executive stakeholders across countries.
-
+-->
 ## Education
 
 University of Copenhagen, Copenhagen, Denmark
@@ -51,7 +61,9 @@ Title: Determinants of the germination niche of Ambrosia artemisiifolia–effect
 Advisor: Johannes Kolmann, Ph.d
 
 `December 2004`
-__Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://skovskolen.ku.dk/skov-og-naturtekniker/)__
+__Skilled Forest and Landscape Craftsman__
+
+Skovskolen Nødebo [Forestry](https://skovskolen.ku.dk/skov-og-naturtekniker/)
 
 ## Employment
 
@@ -60,7 +72,8 @@ __Skilled Forest and Landscape Craftsman, Skovskolen Nødebo [Forestry](https://
 * Team leadership and development
 * AI and ML vision, use cases and platforms
 * Solution design and delivery with customers and partners
-* Defining product roadmaps and aligning delivery across teams
+* Defining program roadmaps and aligning delivery across teams
+* Partnering with other agencies to succeed in complex use cases
 
 `2023 - 2025` __ML Product Owner, Novo Nordisk A/S__
 
