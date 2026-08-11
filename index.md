@@ -22,7 +22,7 @@ I have led cross-functional teams through 0→1 product and program builds, oper
 
 I thrive turning early-stage collaborations into durable programs. I have hands-on experience shaping partnerships between organisations focusing on long-term value creation, translating scientific needs into implementable engineering work, and keeping executives on the same page while clearing technical and organisational blockers. 
 
-About me, I am a fast learner who enjoy establishing collaborations and helping the people around me succeed. I have little need to put a personal agenda first, I set direction but rely on experts with domain knowledge to make decisions they are most qualified to make. 
+About me; I am a fast learner who enjoy establishing collaborations and helping the people around me succeed. I have little need to put a personal agenda first, the team success is whats important. I set direction, but rely on experts with domain knowledge to make decisions they are most qualified to make. 
 
 ## Skills
 
